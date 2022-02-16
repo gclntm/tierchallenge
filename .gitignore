@@ -1,5 +1,6 @@
 # Safe creds
 *credupdate*.sh
+build_ec2.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
